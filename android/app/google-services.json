@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355787136749",
+    "project_id": "trekking-maua---pi-a04fa",
+    "storage_bucket": "trekking-maua---pi-a04fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355787136749:android:0f958778941639cd0376e4",
+        "android_client_info": {
+          "package_name": "com.example.trekking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmjETLnDDwdyb3z9XKkqf0jY7YC9SWng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
